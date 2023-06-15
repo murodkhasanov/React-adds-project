@@ -1,0 +1,186 @@
+.Sale {
+    /* background-color: #35c222; */
+    /* width: 50px; */
+    /* height: 3000px; */
+    position: relative;
+    left: 290px;
+    /* bottom: 1000px; */
+    border-radius: 8px;
+}   
+.head {
+    background-color: #FFFFFF;
+    width: 520px;
+    height: 130px;
+    border-radius: 8px;
+    position: relative;
+    /* bottom: 1321px; */
+}
+.p1 {
+    position: relative;
+    left: 15px;
+    top: 10px;
+    font-size: 12px;
+    font-family: 'Arial';
+}
+.p2 {
+    position: relative;
+    left: 120px;
+    bottom: 16px;
+    font-size: 12px;
+    font-family: 'Arial';
+}
+.x6 {
+    color: blue;
+}
+.x7 {
+    color: blue;
+}
+.oxr {
+    font-size: 12px;
+    font-family: 'Arial';
+    position: relative;
+    left: 405px;
+    bottom: 42px;
+}
+.head>hr {
+    width: 490px;
+    position: relative;
+    bottom: 45px;
+}
+.nam {
+    background-color: rgb(255, 255, 255);
+    width: 520px;
+    height: 70px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    position: relative;
+    bottom: 45px;
+}
+.nam>.pices2 {
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 70px;
+    margin: 2px;
+    border-radius: 6px;
+}
+.nam>.pices2>img {
+    width: 40px;
+    height: 40px;
+    padding: 7px 10px;
+}
+.pices2>p {
+    position: relative;
+    bottom: 20px;
+    left: 15px;
+}
+.pices2>.yaa {
+    position: relative;
+    left: 7px;
+}
+.pices2>.vaa {
+    position: relative;
+    left: 7px;
+}
+.naman {
+    overflow-y: scroll;
+    position: relative;
+    overflow-x: hidden;
+    bottom: 1318px;
+    height: 1180px;
+    width: 550px;
+}
+.texno {
+    background-color: #FFFFFF;
+    width: 520px;
+    height: 600px;
+    border-radius: 10px;
+    position: relative;
+    /* top: 10px; */
+    margin-top: 15px;
+    /* bottom: 1300px; */
+}
+.header>img {
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+}
+.header >p {
+    font-size: 20px;
+    position: relative;
+    left: 65px;
+    bottom: 70px;
+    font-family: 'Arial';
+}
+.btn {
+    background-color: #DFE5F5;
+    height: 40px;
+    width: 110px;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    left: 395px;
+    bottom: 120px;
+    cursor: pointer;
+}
+.btn>h4 {
+    font-size: 15px;
+    position: relative;
+    bottom: 10px;
+    font-family: 'Arial';
+}
+
+.fot>img {
+    border-radius: 8px;
+    position: relative;
+    left: 10px;
+    bottom: 105px;
+}
+.vaxue {
+    position: relative;
+    left: 20px;
+    bottom: 110px;
+    font-family: 'Arial';
+}
+.vaxue>h4 {
+    position: relative;
+    bottom: 15px;
+    font-size: 17px;
+    color: blue;
+    font-family: 'Arial';
+}
+.vaxue>h2 {
+    position: relative;
+    bottom: 28px;
+    font-size: 29px;
+    font-family: 'Arial';
+}
+.vaxue>.iconca {
+    font-size: 18px;
+    margin: 5px;
+    position: relative;
+    bottom: 35px;
+}
+.vaxue>.iconca1 {
+    font-size: 18px;
+    margin: 5px;
+    position: relative;
+    bottom: 35px;
+    left: 20px;
+}
+
+.like>img {
+    width: 267px;
+    height: 318px;
+    position: relative;
+    bottom: 663px;
+    left: 542px;
+    border-radius: 8px;
+}
+.like2>img {
+    width: 267px;
+    height: 318px;
+    position: relative;
+    bottom: 655px;
+    left: 542px;
+    border-radius: 8px;
+}

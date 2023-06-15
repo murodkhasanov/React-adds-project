@@ -1,0 +1,187 @@
+.Settings {
+    background-color: rgb(255, 255, 255);
+    width: 818px;
+    height: 600px;
+    position: relative;
+    left: 280px;
+    bottom: 665px;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+
+.headerr {
+    background-color: rgb(255, 255, 255);
+    width: 818px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.headerr>img {
+    border-radius: 100px;
+    width: 84px;
+    height: 84px;
+    padding: 25px;
+}
+
+.mayss {
+    background-color: aliceblue;
+    width: 12px;
+    height: 12px;
+    border-radius: 100px;
+    border: 5px solid white;
+    box-shadow: 3px 5px 7px;
+    position: relative;
+    left: 82px;
+    bottom: 77px;
+    cursor: pointer;
+}
+
+.toche {
+    background-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 26px;
+    border-radius: 50%;
+    transform: rotate(-35deg);
+    position: relative;
+    left: 77px;
+    bottom: 55px;
+    border-color: rgb(189, 189, 189);
+}
+
+.namew>h3 {
+    position: relative;
+    left: 120px;
+    bottom: 170px;
+    font-size: 27px;
+    font-family: 'Arial';
+}
+
+.namew>p {
+    position: relative;
+    left: 120px;
+    bottom: 190px;
+    font-size: 12px;
+    font-family: 'Arial';
+    color: rgb(0, 0, 0);
+}
+
+.opp {
+    position: relative;
+    left: 665px;
+    bottom: 239px;
+    color: #1754F2;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.nik {
+    position: relative;
+    left: 690px;
+    bottom: 265px;
+    color: #1754F2;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.headerr>hr {
+    position: relative;
+    bottom: 210px;
+    width: 750px;
+    color: #000000;
+}
+.personal {
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 500px;
+    margin: 10px;
+    font-family: 'Arial';
+}
+.tetx>h3 {
+    padding: 10px 20px;
+}
+
+.personal>.put1 {
+    width: 250px;
+    height: 60px;
+    position: relative;
+    left: 20px;
+    top: 0px;
+}
+.put2 {
+    width: 250px;
+    height: 60px;
+    position: relative;
+    left: 40px;
+    top: 0px;
+}
+.put3 {
+    width: 250px;
+    height: 60px;
+    position: relative;
+    left: -487px;
+    top: 80px;
+}
+.inter {
+    background-color: white;
+    width: 800px;
+    height: 300px;
+    position: relative;
+    bottom: 300px;
+    margin: 10px;
+    font-family: 'Arial';
+}
+.select {
+    background-color: #F9F9F9;
+    width: 180px;
+    height: 55px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+}
+.option {
+    background-color: #F9F9F9;
+    width: 180px;
+    height: 55px;
+}
+.mine {
+    position: relative;
+    left: 430px;
+    bottom: 118px;
+    font-size: 26px;
+    cursor: pointer;
+}
+.noti {
+    background-color: #F9F9F9;
+    width: 180px;
+    height: 55px;
+    border-radius: 8px;
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+.noti>p {
+    padding: 19px;
+    font-size: 18px;
+}
+.noti1 {
+    background-color: #F9F9F9;
+    width: 180px;
+    height: 55px;
+    border-radius: 8px;
+    position: relative;
+    left: 10px;
+    bottom: 100px;
+}
+.noti1>p {
+    padding: 19px;
+    font-size: 18px;
+}
+.mine1 {
+    position: relative;
+    left: 140px;
+    bottom: 140px;
+    font-size: 26px;
+    color: blue;
+    cursor: pointer;
+}

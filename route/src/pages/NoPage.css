@@ -1,0 +1,39 @@
+.NoPage {
+    background-color: rgb(255, 255, 255);
+    width: 810px;
+    height: 600px;
+    position: relative;
+    left: 290px;
+    bottom: 875px;
+    border-radius: 10px;
+}
+.katta>h1 {
+    font-size: 350px;
+    font-family: 'Montserrat';
+    color: rgb(218, 218, 218);
+    padding: 100px 150px;
+}
+.katta>h2 {
+    font-family: 'Arial';
+    color: black;
+    position: relative;
+    bottom: 600px;
+    font-size: 30px;
+    left: 305px;
+}
+.katta>p {
+    font-family: 'Arial';
+    color: black;
+    position: relative;
+    bottom: 610px;
+    font-size: 15px;
+    left: 280px;
+}
+.katta>span {
+    font-family: 'Arial';
+    color: black;
+    position: relative;
+    bottom: 615px;
+    font-size: 15px;
+    left: 335px;
+}

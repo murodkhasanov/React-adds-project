@@ -1,0 +1,99 @@
+li {
+    text-decoration: none;
+    font-family: 'Arial';
+    color: #000000;
+    font-weight: lighter;
+    margin: 25px;
+    display: block;
+    font-size: 22px;
+    display: block;
+    position: relative;
+    right: 42px;
+    bottom: 120px;
+    text-decoration: none;
+}
+.litenow {
+    background-color: #EEF2FE;
+    width: 230px;
+    height: 50px;
+    border-radius:7px;
+    position: relative;
+    right: 46px;
+    cursor: pointer;
+}
+li>h4 {
+    position: relative;
+    bottom: 38px;
+    left: 55px;
+    font-size: 20px;
+}
+.icon1 {
+    position: relative;
+    left: 15px;
+    top: 10px;
+    font-size: 20px;
+}
+.icon2 {
+    position: relative;
+    bottom: 130px;
+    font-size: 20px;
+    right: 5px;
+}
+.icon2>li {
+    position: relative;
+    bottom: 50px;
+    left: 15px;
+    font-size: 20px;
+}
+.icon3 {
+    position: relative;
+    bottom: 180px;
+    font-size: 20px;
+    right: 5px;
+}
+.icon3>li {
+    position: relative;
+    bottom: 48px;
+    left: 15px;
+    font-size: 20px;
+}
+.icon4 {
+    position: relative;
+    bottom: 225px;
+    font-size: 20px;
+    right: 5px;
+}
+.icon4>li {
+    position: relative;
+    bottom: 50px;
+    left: 15px;
+    font-size: 20px;
+}
+.icon5 {
+    position: relative;
+    bottom: 275px;
+    font-size: 20px;
+    right: 5px;
+}
+.icon5>li {
+    position: relative;
+    bottom: 48px;
+    left: 15px;
+    font-size: 20px;
+}
+.icon5>li>.a {
+    text-decoration: none;
+    color: #000000;
+}
+.icon4>li>.a {
+    text-decoration: none;
+    color: #000000;
+}
+.icon3>li>.a {
+    text-decoration: none;
+    color: #000000;
+}
+.icon2>li>.a {
+    text-decoration: none;
+    color: #000000;
+}

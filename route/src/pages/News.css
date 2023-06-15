@@ -1,0 +1,148 @@
+.News {
+    background-color: #D8D8D8;
+    width: 810px;
+    height: 700px;
+    position: relative;
+    bottom: 661px;
+    left: 290px;
+    border-radius: 10px;
+}
+
+.bat {
+    background-color: #FFFFFF;
+    width: 230px;
+    height: 50px;
+    border-radius: 6px;
+    font-family: 'Arial';
+    position: relative;
+    left: 15px;
+    /* top: 15px; */
+}
+
+.bat>button {
+    position: relative;
+    left: 15px;
+}
+
+.bat>.but {
+    width: 80px;
+    height: 32px;
+    border-radius: 6px;
+    background-color: #1754F2;
+    color: white;
+    border: none;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.bat>.but1 {
+    width: 90px;
+    height: 32px;
+    border-radius: 6px;
+    background-color: #F9F9F9;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.bat>.but>p {
+    position: relative;
+    bottom: 5px;
+}
+
+.bat>.but1>p {
+    position: relative;
+    bottom: 5px;
+    color: black;
+}
+
+.big {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    background-color: #D8D8D8;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.big>div {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.big>.pices11>.text {
+    font-size: 22px;
+    font-family: 'Arial';
+} 
+.big>.pices12>.text {
+    font-size: 22px;
+    font-family: 'Arial';
+} 
+.big>.pices13>.text {
+    font-size: 22px;
+    font-family: 'Arial';
+}
+.big>.pices14>.text {
+    font-size: 22px;
+    font-family: 'Arial';
+} 
+.big>.pices15>.text {
+    font-size: 22px;
+    font-family: 'Arial';
+} 
+
+.big>.pices11>.small {
+    font-size: 13px;
+    font-family: 'Arial';
+    color: rgb(182, 182, 182);
+} 
+.big>.pices12>.small {
+    font-size: 13px;
+    font-family: 'Arial';
+    color: rgb(182, 182, 182);
+} 
+.big>.pices13>.small {
+    font-size: 13px;
+    font-family: 'Arial';
+    color: rgb(182, 182, 182);
+} 
+.big>.pices14>.small {
+    font-size: 13px;
+    font-family: 'Arial';
+    color: rgb(182, 182, 182);
+} 
+.big>.pices15>.small {
+    font-size: 13px;
+    font-family: 'Arial';
+    color: rgb(182, 182, 182);
+} 
+
+
+.pices14 {
+    grid-column: 1 / 3;
+}
+
+.pices14>img {
+    width: 330px;
+    height: 170px;
+    position: relative;
+    left: 400px;
+    bottom: 140px;
+    border-radius: 10px;
+}
+.pices14 {
+    height: 200px;
+}
+.fan {
+    font-size: 18px;
+    margin: 10px;
+}
+
+.pices14>.fan {
+    position: relative;
+    bottom: 120px;
+    right: 330px;
+}
